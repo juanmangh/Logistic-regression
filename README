@@ -1,0 +1,1 @@
+The objective of the project is to generate a logistic regression with gradient ascent from two random variables following a normal distribution (1000 samples each), converted into binary responses, to describe their behavior with a suitable regression curve.
